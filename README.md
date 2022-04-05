@@ -15,6 +15,7 @@
 <a href="https://twitter.com/@ivanytskyi2407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ivanytskyi2407" height="30" width="40" /></a>
 <a href="https://fb.com/ivanytskyioleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanytskyioleh" height="30" width="40" /></a>
 <a href="https://instagram.com/olehivanytskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olehivanytskyi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oleh-ivanytskyi-6b54851a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleh-ivanytskyi-6b54851a0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
