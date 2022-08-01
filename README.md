@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleh Ivanytskyi</h1>
 <!-- <h3 align="center">A passionate frontend developer from Ukraine</h3> -->
 
-- 🌱 I’m currently studying **at goit.ua at FRONT-END Developer**
+- 🌱 I’m currently studying **at goit.ua at FULL STACK Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivanytskyi2407?tab=repositories](https://github.com/ivanytskyi2407?tab=repositories)
 
